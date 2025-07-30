@@ -10,6 +10,10 @@
       <br/>C
     </td>
     <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" alt="C++ Logo"/>
+      <br/>C++
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python Logo"/>
       <br/>Python
     </td>
@@ -19,6 +23,7 @@
     </td>
   </tr>
 </table>
+
 
 ## 👤 GitHub Stats
 
