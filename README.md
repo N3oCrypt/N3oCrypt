@@ -1,3 +1,6 @@
+## 👋 Hi, I'm N3oCrypt
+![Descripción del GIF](https://i.pinimg.com/originals/b1/81/0d/b1810d0bf4fbd370349d671a3f9389af.gif)
+
 ## 🚀 Currently Learning
 
 <table>
