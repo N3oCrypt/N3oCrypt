@@ -19,6 +19,6 @@
 
 ## 👤 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)](https://github.com/TU_USUARIO)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3oCrypt&show_icons=true&theme=dark)](https://github.com/TU_USUARIO)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)](https://github.com/TU_USUARIO)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N3oCrypt&layout=compact&theme=dark)](https://github.com/TU_USUARIO)
