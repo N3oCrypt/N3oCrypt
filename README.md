@@ -25,8 +25,10 @@
 </table>
 
 
-## 👤 GitHub Stats
+## 🧮 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3oCrypt&show_icons=true&theme=dark)](https://github.com/N3oCrypt)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3oCrypt&show_icons=true&theme=dark&v=1)](https://github.com/N3oCrypt)
+
+## 📈 Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N3oCrypt&layout=compact&theme=dark&v=1)](https://github.com/N3oCrypt)
