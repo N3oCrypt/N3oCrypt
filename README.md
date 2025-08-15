@@ -6,10 +6,6 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="60" alt="C Logo"/>
-      <br/>C
-    </td>
-    <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" alt="C++ Logo"/>
       <br/>C++
     </td>
