@@ -29,6 +29,5 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N3oCrypt&layout=compact&theme=dark&v=1)](https://github.com/N3oCrypt)
 
-&cache_seconds=60
 
 
