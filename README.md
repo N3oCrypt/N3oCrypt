@@ -27,7 +27,8 @@
 
 ## 📈 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N3oCrypt&layout=compact&theme=dark&v=1)](https://github.com/N3oCrypt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3oCrypt&layout=compact&theme=dark&cache_seconds=60)](https://github.com/N3oCrypt)
+
 
 
 
